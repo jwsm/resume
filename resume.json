@@ -1,0 +1,72 @@
+{
+  "bio": {
+    "firstName": "Jonathan",
+    "lastName": "Stuart-Moore",
+    "email": {
+      "work": "jonathan.stuart-moore@pointsource.com",
+      "personal": "jstuartm@gmail.com"
+    },
+    "summary": "Jonathan is a web/mobile app developer, composer, and cellist.",
+    "location": {
+      "city": "Raleigh",
+      "countryCode": "US",
+      "state": "North Carolina"
+    },
+    "websites": {
+      "blog": "http://jstuartmoore.com"
+    },
+    "profiles": {
+      "github": "jwsm",
+      "twitter": "jwsm"
+    }
+  },
+  "work": [
+    {
+      "company": "PointSource",
+      "position": "Software Engineer",
+      "website": "http://pointsource.com",
+      "startDate": "2014-02-01",
+      "summary": "Develop web and mobile apps using Backbone, Marionette, and IBM Worklight"
+    },
+    {
+      "company": "Frantic Cat Media",
+      "position": "Web Designer/Developer, Video Editor, Consultant",
+      "website": "http://jstuartmoore.com/webdev/",
+      "startDate": "1998-01-01",
+      "summary": "Provide technology consulting, web design/development, and video production services to individuals and nonprofit organizations"
+    },
+    {
+      "company": "Shodor",
+      "position": "Mentor, Programmer, Instructor, Graphic Designer",
+      "website": "http://shodor.org/",
+      "startDate": "2005-09-01",
+      "endDate": "2009-07-01",
+      "summary": "Mentor high school and college students in programming and graphics; Develop online curriculum materials and infrastructure to support computational science education"
+    }
+
+  ],
+  "education": [
+    {
+      "institution": "University of North Carolina at Greensboro",
+      "startDate": "2009-08-01",
+      "endDate": "2011-12-01",
+      "area": "Music Composition",
+      "studyType": "Master's"
+    },
+    {
+      "institution": "Middlebury College",
+      "startDate": "2001-09-01",
+      "endDate": "2005-05-01",
+      "area": "Music, Computer Science",
+      "studyType": "Bachelor's"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Live manipulation of documentary audio in a narrative electroacoustic concert piece",
+      "publisher": "Master's Thesis / University of North Carolina at Greensboro",
+      "releaseDate": "2011-12-01",
+      "website": "bit.ly/UrhXsm"
+    }
+  ]
+}
